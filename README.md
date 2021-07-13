@@ -7,10 +7,6 @@ I’m currently part of the DEpendable and Explainable Learning [(DEEL)](https:/
 involved in the development of dependable, robust, explainable and certifiable artificial intelligence technological
 bricks applied to critical systems.
 
-## Contact 📧 
-- Professional email: lucas.hervier@irt-saintexupery.com
-- Personal email: lu.hervier@gmail
-
 <!---
 lucashervier/lucashervier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
